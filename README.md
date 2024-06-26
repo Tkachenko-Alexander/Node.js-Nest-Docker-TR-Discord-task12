@@ -1,4 +1,4 @@
-NOTE! Please, don't download the folder "SomeScripts". It is only for showing. The rest folders and files are for starting project.
+NOTE! Please, don't download the folder "SomeScripts". It is only for showing. The rest folders and files are for starting the project.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
